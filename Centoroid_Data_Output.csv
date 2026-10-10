@@ -1,0 +1,16 @@
+centroid_id,feature,average_value
+1,age,25.08
+1,annual_income_k,41.55
+1,spending_score,62.66
+2,age,39.87
+2,annual_income_k,86.1
+2,spending_score,19.36
+3,age,32.88
+3,annual_income_k,86.1
+3,spending_score,81.53
+4,age,45.52
+4,annual_income_k,26.29
+4,spending_score,19.38
+5,age,55.64
+5,annual_income_k,54.38
+5,spending_score,48.85
